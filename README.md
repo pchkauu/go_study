@@ -1,12 +1,11 @@
 # Golang
 
-> 🐬 The story of my self-study of Golang
+> **🐬 The story of my self-study of Golang**
 
+---
 ### Content
 
 ---
 #### Metanit
 
-- 🔥 IN PROGRESS:  [Go Course](./metanit/)
-
----
+- 🔥 IN PROGRESS:  [Go Course (GitHub Link)](./metanit/)
